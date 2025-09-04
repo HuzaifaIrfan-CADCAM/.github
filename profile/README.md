@@ -1,6 +1,6 @@
 # 🧑‍💻 Huzaifa Irfan 👋
 
-**`📁 This organization hosts all CAD, Mechanical, and PCB design projects, including 3D models, assemblies, and fabrication-ready drawings.`**
+**`📁 This organization hosts all CAD, Mechanical, and design projects, including 3D models, assemblies, and fabrication-ready drawings.`**
 
 <hr />
 
